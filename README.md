@@ -17,6 +17,7 @@
 - [Neural Network on Microcontroller (NNoM)](https://github.com/majianjia/nnom)
 - [CMSIS NN](https://www.keil.com/pack/doc/CMSIS/NN/html/index.html)
 - [tflite-micro](https://github.com/tensorflow/tflite-micro)
+- [X-CUBE-AI](https://www.st.com/en/embedded-software/x-cube-ai.html) : an STM32Cube Expansion Package, which is part of the STM32Cube
 
 ## Book 
 
