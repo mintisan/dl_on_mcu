@@ -9,6 +9,8 @@
 
 ## Paper
 
+- [TinyML Platforms Benchmarking](https://arxiv.org/pdf/2112.01319.pdf)
+
 ## Framework
 
 - [Comparison of TinyML Inference Framework](https://github.com/sipeed/TinyMaix/blob/main/tinyml_intro.md#comparison-of-tinyml-inference-framework)
