@@ -24,3 +24,4 @@
 ## Book 
 
 - [Efficient Deep Learning Book](https://efficientdlbook.com/)
+- [AI at the Edge](https://www.oreilly.com/library/view/ai-at-the/9781098120191/)
