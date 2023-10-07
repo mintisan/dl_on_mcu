@@ -25,3 +25,7 @@
 
 - [Efficient Deep Learning Book](https://efficientdlbook.com/)
 - [AI at the Edge](https://www.oreilly.com/library/view/ai-at-the/9781098120191/)
+
+## Class
+
+- [TinyML and Efficient Deep Learning Computing](https://hanlab.mit.edu/courses/2023-fall-65940)
