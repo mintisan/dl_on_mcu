@@ -23,6 +23,7 @@
 - 2022-[SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models](https://arxiv.org/abs/2211.10438)-64 | [code](https://github.com/mit-han-lab/smoothquant)
 - 2022-[Efficient CNN Architecture Design Guided by Visualization](https://arxiv.org/abs/2207.10318)-3
 - 2022-[MVP- An Efficient CNN Accelerator with Matrix, Vector, and Processing-Near-Memory Units](https://dl.acm.org/doi/10.1145/3497745)-2
+- 2022-[A novel framework for deployment of CNN models using post-training quantization on microcontroller](https://www.sciencedirect.com/science/article/abs/pii/S0141933122001715)-4
 
 ## Framework
 
