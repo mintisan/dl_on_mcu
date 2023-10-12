@@ -11,6 +11,7 @@
 
 - 2016-[EIE: Efficient Inference Engine on Compressed Deep Neural Network](https://arxiv.org/abs/1602.01528)-2896
 - 2019-[EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://arxiv.org/abs/1905.11946)-15404
+- 2020-[ATCN: Resource-Efficient Processing of Time Series on Edge](https://arxiv.org/abs/2011.05260)-2 | [code](https://github.com/TeCSAR-UNCC/ATCN)
 - 2020-[Methodology for Efficient CNN Architectures in Profiling Attacks – Extended Version](https://tches.iacr.org/index.php/TCHES/article/view/8391)-178
 - 2020-[MCUNet: Tiny Deep Learning on IoT Devices](https://hanlab.mit.edu/projects/mcunetv1)-306 | [code](https://github.com/mit-han-lab/mcunet)
 - 2021-[Network Augmentation for Tiny Deep Learning](https://arxiv.org/abs/2110.08890)-14
