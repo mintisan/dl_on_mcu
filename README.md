@@ -13,6 +13,7 @@
 - 2020-[Methodology for Efficient CNN Architectures in Profiling Attacks – Extended Version](https://tches.iacr.org/index.php/TCHES/article/view/8391)-178
 - 2020-[MCUNet: Tiny Deep Learning on IoT Devices](https://hanlab.mit.edu/projects/mcunetv1)-306 | [code](https://github.com/mit-han-lab/mcunet)
 - 2021-[MCUNetV2: Memory-Efficient Patch-based Inference for Tiny Deep Learning](https://arxiv.org/abs/2110.15352)-59 | [code](https://github.com/mit-han-lab/mcunet)
+- 2021-[Network Augmentation for Tiny Deep Learning](https://arxiv.org/abs/2110.08890)-14
 - 2021-[TinyML Platforms Benchmarking](https://arxiv.org/pdf/2112.01319.pdf)-17
 - 2021-[Resource-Efficient Deep Learning: A Survey on Model-, Arithmetic-, and Implementation-Level Techniques](https://arxiv.org/abs/2112.15131)-9
 - 2022-[A Survey on Efficient Convolutional Neural Networks and Hardware Acceleration](https://www.mdpi.com/2079-9292/11/6/945)-68
