@@ -20,6 +20,7 @@
 - 2021-[Resource-Efficient Deep Learning: A Survey on Model-, Arithmetic-, and Implementation-Level Techniques](https://arxiv.org/abs/2112.15131)-9
 - 2022-[A Survey on Efficient Convolutional Neural Networks and Hardware Acceleration](https://www.mdpi.com/2079-9292/11/6/945)-68
 - 2022-[On-Device Training Under 256KB Memory](https://arxiv.org/abs/2206.15472)-58
+- 2022-[SmoothQuant: Accurate and Efficient Post-Training Quantization for Large Language Models](https://arxiv.org/abs/2211.10438)-64 | [code](https://github.com/mit-han-lab/smoothquant)
 - 2022-[Efficient CNN Architecture Design Guided by Visualization](https://arxiv.org/abs/2207.10318)-3
 - 2022-[MVP- An Efficient CNN Accelerator with Matrix, Vector, and Processing-Near-Memory Units](https://dl.acm.org/doi/10.1145/3497745)-2
 
