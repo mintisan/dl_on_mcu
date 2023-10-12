@@ -10,6 +10,7 @@
 ## Paper
 
 - [TinyML Platforms Benchmarking](https://arxiv.org/pdf/2112.01319.pdf)
+- 2020-[MCUNet: Tiny Deep Learning on IoT Devices](https://hanlab.mit.edu/projects/mcunetv1)-306 | [code](https://github.com/mit-han-lab/mcunet)
 
 ## Framework
 
