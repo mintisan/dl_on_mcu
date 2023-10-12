@@ -9,7 +9,6 @@
 
 ## Paper
 
-### Survey
 - 2019-[EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://arxiv.org/abs/1905.11946)-15404
 - 2020-[MCUNet: Tiny Deep Learning on IoT Devices](https://hanlab.mit.edu/projects/mcunetv1)-306 | [code](https://github.com/mit-han-lab/mcunet)
 - 2021-[MCUNetV2: Memory-Efficient Patch-based Inference for Tiny Deep Learning](https://arxiv.org/abs/2110.15352)-59 | [code](https://github.com/mit-han-lab/mcunet)
@@ -18,6 +17,7 @@
 - 2022-[A Survey on Efficient Convolutional Neural Networks and Hardware Acceleration](https://www.mdpi.com/2079-9292/11/6/945)-68
 - 2022-[On-Device Training Under 256KB Memory](https://arxiv.org/abs/2206.15472)-58
 - 2022-[Efficient CNN Architecture Design Guided by Visualization](https://arxiv.org/abs/2207.10318)-3
+- 2022-[MVP- An Efficient CNN Accelerator with Matrix, Vector, and Processing-Near-Memory Units](https://dl.acm.org/doi/10.1145/3497745)-2
 
 ## Framework
 
