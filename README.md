@@ -35,6 +35,9 @@
 - [X-CUBE-AI](https://www.st.com/en/embedded-software/x-cube-ai.html) : an STM32Cube Expansion Package, which is part of the STM32Cube
 - [uTensor](https://github.com/uTensor/uTensor) : TinyML AI inference library
 
+## Tutorial
+
+- [TinyML is bringing neural networks to microcontrollers](https://bdtechtalks.com/2022/01/17/mcunetv2-tinyml-deep-learning-microcontrollers/)
 
 ## Book 
 
