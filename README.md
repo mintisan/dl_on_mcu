@@ -59,6 +59,7 @@
 - [AN13001 - Glow Memory Analysis](https://www.nxp.com/docs/en/application-note/AN13001.pdf)
 - [eIQ Glow Ahead of Time User Guide](https://www.nxp.com/docs/en/user-guide/EIQGLOWAOTUG.pdf)
 - [i.MX Machine Learning User's Guide](https://www.nxp.com/docs/en/user-guide/IMX-MACHINE-LEARNING-UG.pdf)
+- [Machine Learning with the i.MX RT1060](https://www.nxp.com/docs/en/training-reference-material/MACHINE-LEARNING-WITH-THE-I.MX-RT1060.pdf)
 
 ## Book 
 
