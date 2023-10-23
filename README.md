@@ -31,6 +31,7 @@
 ## Framework
 
 - [EXECUTORCH-Pytorch Edge](https://pytorch.org/executorch-overview)
+- [Glow](https://github.com/pytorch/glow)
 - [Comparison of TinyML Inference Framework](https://github.com/sipeed/TinyMaix/blob/main/tinyml_intro.md#comparison-of-tinyml-inference-framework)
 - [tinyengine](https://github.com/mit-han-lab/tinyengine)
 - [TinyMaix](https://github.com/sipeed/TinyMaix)
