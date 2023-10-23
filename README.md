@@ -44,6 +44,14 @@
 
 - [TinyML is bringing neural networks to microcontrollers](https://bdtechtalks.com/2022/01/17/mcunetv2-tinyml-deep-learning-microcontrollers/)
 
+### model compression
+
+- https://github.com/cedrickchee/awesome-ml-model-compression
+- [PyTortch Pruning](https://pytorch.org/tutorials/intermediate/pruning_tutorial.html)
+- [PyTorch Quatization](https://pytorch.org/docs/stable/quantization.html)
+- [4 Popular Model Compression Techniques Explained](https://xailient.com/blog/4-popular-model-compression-techniques-explained/) : Pruning | Quantization | Knowledge distillation | Low-rank factorization
+- [An Overview of Model Compression Techniques for Deep Learning in Space](https://medium.com/gsi-technology/an-overview-of-model-compression-techniques-for-deep-learning-in-space-3fd8d4ce84e5)
+
 ## Book 
 
 - [Efficient Deep Learning Book](https://efficientdlbook.com/)
