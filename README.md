@@ -57,6 +57,7 @@
 
 - [Glow Compiler Optimizes Neural Networks for Low Power NXP MCUs](https://medium.com/pytorch/glow-compiler-optimizes-neural-networks-for-low-power-nxp-mcus-e095abe14942)
 - [AN13001 - Glow Memory Analysis](https://www.nxp.com/docs/en/application-note/AN13001.pdf)
+- [eIQ Glow Ahead of Time User Guide](https://www.nxp.com/docs/en/user-guide/EIQGLOWAOTUG.pdf)
 
 ## Book 
 
