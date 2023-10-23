@@ -30,6 +30,7 @@
 
 ## Framework
 
+- [EXECUTORCH-Pytorch Edge](https://pytorch.org/executorch-overview)
 - [Comparison of TinyML Inference Framework](https://github.com/sipeed/TinyMaix/blob/main/tinyml_intro.md#comparison-of-tinyml-inference-framework)
 - [tinyengine](https://github.com/mit-han-lab/tinyengine)
 - [TinyMaix](https://github.com/sipeed/TinyMaix)
@@ -47,6 +48,7 @@
 
 - [Efficient Deep Learning Book](https://efficientdlbook.com/)
 - [AI at the Edge](https://www.oreilly.com/library/view/ai-at-the/9781098120191/)
+- [Introduction to TinyML](https://www.thetinymlbook.com/)
 
 ## Class
 
