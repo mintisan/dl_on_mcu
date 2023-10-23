@@ -53,6 +53,10 @@
 - [4 Popular Model Compression Techniques Explained](https://xailient.com/blog/4-popular-model-compression-techniques-explained/) : Pruning | Quantization | Knowledge distillation | Low-rank factorization
 - [An Overview of Model Compression Techniques for Deep Learning in Space](https://medium.com/gsi-technology/an-overview-of-model-compression-techniques-for-deep-learning-in-space-3fd8d4ce84e5)
 
+### MCU
+
+- [Glow Compiler Optimizes Neural Networks for Low Power NXP MCUs](https://medium.com/pytorch/glow-compiler-optimizes-neural-networks-for-low-power-nxp-mcus-e095abe14942)
+
 ## Book 
 
 - [Efficient Deep Learning Book](https://efficientdlbook.com/)
