@@ -37,12 +37,12 @@
 - 2018-[Conceptual Understanding of Convolutional Neural Network- A Deep Learning Approach](https://www.sciencedirect.com/science/article/pii/S1877050918308019)-574
 - 2019-[Understanding 1D Convolutional Neural Networks Using Multiclass Time-Varying Signals](https://tigerprints.clemson.edu/cgi/viewcontent.cgi?article=3918&context=all_theses)-39
 - 2020-[Deep Learning for Channel Estimation: Interpretation, Performance, and Comparison](https://ieeexplore.ieee.org/document/9288911?denied=)-85
+- 2020-[CNN Explainer: Learning Convolutional Neural Networks with Interactive Visualization](https://arxiv.org/abs/2004.15004)-175 | [code](https://github.com/poloclub/cnn-explainer)
 - 2022-[Explaining One-Dimensional Convolutional Models in Human Activity Recognition and Biometric Identification Tasks](https://www.mdpi.com/1424-8220/22/15/5644)-4
 - 2023-[Explaining and Visualizing Embeddings of One-Dimensional Convolutional Models in Human Activity Recognition Tasks](https://www.mdpi.com/1424-8220/23/9/4409)-3
 - 2023-[Theoretical Understanding of Convolutional Neural Network: Concepts, Architectures, Applications, Future Directions](https://www.mdpi.com/2079-3197/11/3/52)-29
 - 2023-[Design and Analysis of Convolutional Neural Layers: A Signal Processing Perspective](https://ieeexplore.ieee.org/document/10073548)
 - 2023-[MANIMML: Communicating Machine Learning Architectures with Animation](https://arxiv.org/pdf/2306.17108.pdf) | [code](https://github.com/helblazer811/ManimML)
-- [CNN Explainer](https://poloclub.github.io/cnn-explainer/)
 
 ## Framework
 
