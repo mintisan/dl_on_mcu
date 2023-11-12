@@ -28,6 +28,12 @@
 - 2022-[MVP- An Efficient CNN Accelerator with Matrix, Vector, and Processing-Near-Memory Units](https://dl.acm.org/doi/10.1145/3497745)-2
 - 2022-[A novel framework for deployment of CNN models using post-training quantization on microcontroller](https://www.sciencedirect.com/science/article/abs/pii/S0141933122001715)-4
 
+### Analysis/Understanding
+
+- 2016-[Understanding Deep Convolutional Networks](https://arxiv.org/pdf/1601.04920.pdf)-737
+- 2019-[Understanding 1D Convolutional Neural Networks Using Multiclass Time-Varying Signals](https://tigerprints.clemson.edu/cgi/viewcontent.cgi?article=3918&context=all_theses)-39
+- 2023-[Design and Analysis of Convolutional Neural Layers: A Signal Processing Perspective](https://ieeexplore.ieee.org/document/10073548)
+
 ## Framework
 
 - [EXECUTORCH-Pytorch Edge](https://pytorch.org/executorch-overview)
