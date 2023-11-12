@@ -31,6 +31,7 @@
 ### Analysis/Understanding
 
 - 2016-[Explaining Deep Convolutional Neural Networks on Music Classification](https://arxiv.org/pdf/1607.02444.pdf)-51
+- 2016-[A guide to convolution arithmetic for deep learning](https://arxiv.org/abs/1603.07285)-2173 | [code](https://github.com/vdumoulin/conv_arithmetic)
 - 2016-[Understanding Deep Convolutional Networks](https://arxiv.org/pdf/1601.04920.pdf)-737
 - 2018-[Conceptual Understanding of Convolutional Neural Network- A Deep Learning Approach](https://www.sciencedirect.com/science/article/pii/S1877050918308019)-574
 - 2019-[Understanding 1D Convolutional Neural Networks Using Multiclass Time-Varying Signals](https://tigerprints.clemson.edu/cgi/viewcontent.cgi?article=3918&context=all_theses)-39
