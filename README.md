@@ -31,6 +31,7 @@
 ### Analysis/Understanding/Explain/Visualize
 
 - 2013-[Visualizing and Understanding Convolutional Networks](https://arxiv.org/abs/1311.2901)-20685
+- 2014-[Going Deeper with Convolutions](https://arxiv.org/abs/1409.4842)-54723
 - 2016-[Explaining Deep Convolutional Neural Networks on Music Classification](https://arxiv.org/pdf/1607.02444.pdf)-51
 - 2016-[A guide to convolution arithmetic for deep learning](https://arxiv.org/abs/1603.07285)-2173 | [code](https://github.com/vdumoulin/conv_arithmetic)
 - 2016-[Understanding Deep Convolutional Networks](https://arxiv.org/pdf/1601.04920.pdf)-737
