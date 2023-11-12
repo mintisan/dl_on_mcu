@@ -28,7 +28,7 @@
 - 2022-[MVP- An Efficient CNN Accelerator with Matrix, Vector, and Processing-Near-Memory Units](https://dl.acm.org/doi/10.1145/3497745)-2
 - 2022-[A novel framework for deployment of CNN models using post-training quantization on microcontroller](https://www.sciencedirect.com/science/article/abs/pii/S0141933122001715)-4
 
-### Analysis/Understanding
+### Analysis/Understanding/Explain
 
 - 2013-[Visualizing and Understanding Convolutional Networks](https://arxiv.org/abs/1311.2901)-20685
 - 2016-[Explaining Deep Convolutional Neural Networks on Music Classification](https://arxiv.org/pdf/1607.02444.pdf)-51
@@ -41,6 +41,7 @@
 - 2023-[Explaining and Visualizing Embeddings of One-Dimensional Convolutional Models in Human Activity Recognition Tasks](https://www.mdpi.com/1424-8220/23/9/4409)-3
 - 2023-[Theoretical Understanding of Convolutional Neural Network: Concepts, Architectures, Applications, Future Directions](https://www.mdpi.com/2079-3197/11/3/52)-29
 - 2023-[Design and Analysis of Convolutional Neural Layers: A Signal Processing Perspective](https://ieeexplore.ieee.org/document/10073548)
+- [CNN Explainer](https://poloclub.github.io/cnn-explainer/)
 
 ## Framework
 
