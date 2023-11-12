@@ -30,8 +30,11 @@
 
 ### Analysis/Understanding
 
+- 2016-[Explaining Deep Convolutional Neural Networks on Music Classification](https://arxiv.org/pdf/1607.02444.pdf)-51
 - 2016-[Understanding Deep Convolutional Networks](https://arxiv.org/pdf/1601.04920.pdf)-737
+- 2018-[Conceptual Understanding of Convolutional Neural Network- A Deep Learning Approach](https://www.sciencedirect.com/science/article/pii/S1877050918308019)-574
 - 2019-[Understanding 1D Convolutional Neural Networks Using Multiclass Time-Varying Signals](https://tigerprints.clemson.edu/cgi/viewcontent.cgi?article=3918&context=all_theses)-39
+- 2023-[Theoretical Understanding of Convolutional Neural Network: Concepts, Architectures, Applications, Future Directions](https://www.mdpi.com/2079-3197/11/3/52)-29
 - 2023-[Design and Analysis of Convolutional Neural Layers: A Signal Processing Perspective](https://ieeexplore.ieee.org/document/10073548)
 
 ## Framework
