@@ -27,6 +27,7 @@
 - 2022-[Efficient CNN Architecture Design Guided by Visualization](https://arxiv.org/abs/2207.10318)-3
 - 2022-[MVP- An Efficient CNN Accelerator with Matrix, Vector, and Processing-Near-Memory Units](https://dl.acm.org/doi/10.1145/3497745)-2
 - 2022-[A novel framework for deployment of CNN models using post-training quantization on microcontroller](https://www.sciencedirect.com/science/article/abs/pii/S0141933122001715)-4
+- 2023-[Pex: Memory-efficient Microcontroller Deep Learning through Partial Execution](https://arxiv.org/abs/2211.17246)-1
 
 ### Analysis/Understanding/Explain/Visualize
 
@@ -84,6 +85,7 @@
 - [Efficient Deep Learning Book](https://efficientdlbook.com/)
 - [AI at the Edge](https://www.oreilly.com/library/view/ai-at-the/9781098120191/)
 - [Introduction to TinyML](https://www.thetinymlbook.com/)
+- [Deep Learning on Microcontrollers: Learn how to develop embedded AI applications using TinyML (English Edition) Paperback – April 15, 2023](https://www.amazon.com/Deep-Learning-Microcontrollers-embedded-applications/dp/9355518056)
 
 ## Class
 
