@@ -85,6 +85,7 @@
 - [Efficient Deep Learning Book](https://efficientdlbook.com/)
 - [AI at the Edge](https://www.oreilly.com/library/view/ai-at-the/9781098120191/)
 - [Introduction to TinyML](https://www.thetinymlbook.com/)
+- [TinyML: Machine Learning with TensorFlow Lite on Arduino and Ultra-Low-Power Microcontrollers](https://www.amazon.com/TinyML-Learning-TensorFlow-Ultra-Low-Power-Microcontrollers/dp/1492052043/ref=pd_sim_sccl_2_1/139-5678968-4377856?pd_rd_w=GqIPV&content-id=amzn1.sym.deea2496-fc60-414f-9888-d6b71c774bf1&pf_rd_p=deea2496-fc60-414f-9888-d6b71c774bf1&pf_rd_r=VW93R92ACTMP2FTH0HCF&pd_rd_wg=YakSh&pd_rd_r=be20cf43-5505-4be8-9f9b-d205a65eb1fe&pd_rd_i=1492052043&psc=1)
 - [Deep Learning on Microcontrollers: Learn how to develop embedded AI applications using TinyML (English Edition) Paperback – April 15, 2023](https://www.amazon.com/Deep-Learning-Microcontrollers-embedded-applications/dp/9355518056)
 
 ## Class
