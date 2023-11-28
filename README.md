@@ -46,6 +46,8 @@
 - 2023-[Theoretical Understanding of Convolutional Neural Network: Concepts, Architectures, Applications, Future Directions](https://www.mdpi.com/2079-3197/11/3/52)-29
 - 2023-[Design and Analysis of Convolutional Neural Layers: A Signal Processing Perspective](https://ieeexplore.ieee.org/document/10073548)
 - 2023-[MANIMML: Communicating Machine Learning Architectures with Animation](https://arxiv.org/pdf/2306.17108.pdf) | [code](https://github.com/helblazer811/ManimML)
+- 2023-[Provable Guarantees for Nonlinear Feature Learning in Three-Layer Neural Networks](https://arxiv.org/abs/2305.06986)
+- 2023-[Learning Hierarchical Polynomials with Three-Layer Neural Networks](https://arxiv.org/abs/2311.13774)
 
 ## Framework
 
