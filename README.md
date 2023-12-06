@@ -29,6 +29,10 @@
 - 2022-[A novel framework for deployment of CNN models using post-training quantization on microcontroller](https://www.sciencedirect.com/science/article/abs/pii/S0141933122001715)-4
 - 2023-[Pex: Memory-efficient Microcontroller Deep Learning through Partial Execution](https://arxiv.org/abs/2211.17246)-1
 
+### Review
+
+- [Machine Learning for Microcontroller-Class Hardware: A Review](https://arxiv.org/pdf/2205.14550.pdf)-59
+
 ### Analysis/Understanding/Explain/Visualize
 
 - 2013-[Visualizing and Understanding Convolutional Networks](https://arxiv.org/abs/1311.2901)-20685
