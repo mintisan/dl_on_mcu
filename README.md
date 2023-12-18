@@ -55,6 +55,7 @@
 
 ## Framework
 
+- [Intel® Neural Compressor](https://github.com/intel/neural-compressor) : Provide unified APIs for SOTA model compression techniques, such as low precision (INT8/INT4/FP4/NF4) quantization, sparsity, pruning, and knowledge distillation on mainstream AI frameworks such as TensorFlow, PyTorch, and ONNX Runtime.
 - [EXECUTORCH-Pytorch Edge](https://pytorch.org/executorch-overview)
 - [Glow](https://github.com/pytorch/glow)
 - [Comparison of TinyML Inference Framework](https://github.com/sipeed/TinyMaix/blob/main/tinyml_intro.md#comparison-of-tinyml-inference-framework)
