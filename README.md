@@ -74,6 +74,7 @@
 
 ## Tutorial
 
+- https://github.com/huawei-noah/Efficient-Computing : Efficient computing methods developed by Huawei Noah's Ark Lab
 - [TinyML is bringing neural networks to microcontrollers](https://bdtechtalks.com/2022/01/17/mcunetv2-tinyml-deep-learning-microcontrollers/)
 
 ### model compression
