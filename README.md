@@ -31,7 +31,8 @@
 
 ### Review
 
-- [Machine Learning for Microcontroller-Class Hardware: A Review](https://arxiv.org/pdf/2205.14550.pdf)-59
+- 2022-[Machine Learning for Microcontroller-Class Hardware: A Review](https://arxiv.org/pdf/2205.14550.pdf)-71
+- 2023-[A Review of Artificial Intelligence in Embedded Systems](https://www.mdpi.com/2072-666X/14/5/897)-6
 
 ### Analysis/Understanding/Explain/Visualize
 
