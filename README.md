@@ -69,6 +69,9 @@
 - [uTensor](https://github.com/uTensor/uTensor) : TinyML AI inference library
 - [Neuton TinyML](https://neuton.ai/) | [Ultra TinyML: Machine Learning for 8-bit Microcontroller](https://towardsdatascience.com/ultra-tinyml-machine-learning-for-8-bit-microcontroller-9ec8f7c8dd12)
 - [Larq](https://github.com/larq/larq) :An Open-Source Library for Training Binarized Neural Networks
+- [PLiNIO](https://github.com/eml-eda/plinio) :A Plug-and-play Lightweight tool for the Inference Optimization of Deep Neural networks
+
+
 
 
 
